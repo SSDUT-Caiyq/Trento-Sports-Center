@@ -18,7 +18,7 @@ A practical guide to UniTrento Sport facilities in Trento, covering membership, 
 - [📅 活动参与 / Activities](docs/activities.md)
 
 ## 🤝 贡献方式 / Contributing
-欢迎提交 PR 更新内容、添加新项目或补充地图与交通信息。
+欢迎提交 PR 更新内容、添加新项目或补充地图与交通信息。 \
 PRs are welcome to update content, add new items, or improve maps and transportation info.
 
 ## 🔗 来源 / Sources
