@@ -1,6 +1,6 @@
 # 🏟️ Trento 体育中心攻略 / Trento Sports Center Guide /UniTrento Sport
 
-面向 Trento 地区的 UniTrento Sport 运动中心使用指南，涵盖会员注册、运动项目与活动参与信息。
+面向 Trento 地区的 UniTrento Sport 运动中心使用指南，涵盖会员注册、运动项目与活动参与信息。 \\
 A practical guide to UniTrento Sport facilities in Trento, covering membership, sports, and activities.
 
 ![封面](assets/images/Cover.png)
