@@ -2,7 +2,7 @@
 
 面向 Trento 地区的 UniTrento Sport 运动中心使用指南，涵盖会员注册、运动项目与活动参与信息。
 
-![封面](image.png)
+![封面](assets/images/cover.png)
 
 ## ✨ 项目内容
 - 🧾 会员注册流程与材料清单
