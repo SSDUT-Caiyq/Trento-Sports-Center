@@ -20,4 +20,4 @@
 欢迎提交 PR 更新内容、添加新项目或补充地图与交通信息。
 
 ## 🔗 来源
-- [UniTrento Sport 原文](UniTrento%20Sport%2030506087ad928002ae0bdfa3ecbc367e.md)
+- [UniTrento Sport](https://unitrentosport.unitn.it/)
